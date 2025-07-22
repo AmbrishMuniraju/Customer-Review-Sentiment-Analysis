@@ -12,7 +12,7 @@ This project applies Natural Language Processing (NLP) to analyze customer revie
 
 The analysis revealed distinct emotional profiles for each brand. Brand "H\_" was associated with more positive emotions like **joy** and **surprise**, which correlated with higher average star ratings. [cite_start]In contrast, Brand "Z\_" had a higher incidence of **sadness** and **fear**, indicating areas for improvement[cite: 1115, 1116, 1118].
 
-![Emotion Distribution by Brand](visualizations/brand_emotion_distribution.png)sss
+![Emotion Distribution by Brand](visualizations/brand_emotion_distribution.png)
 
 ## Tech Stack
 * Python
